@@ -22,4 +22,9 @@ For this weeks challenge, I used HTML and CSS to make a portfolio that I can put
 
 ## Screenshots
 
+![Screenshot of portfolio 1](./assets/images/Screen%20Shot%202023-06-30%20at%206.14.26%20PM.png)
+![Screenshot of portfolio 2](./assets/images/Screen%20Shot%202023-06-30%20at%206.14.38%20PM.png)
+![Screenshot of portfolio 3](./assets/images/Screen%20Shot%202023-06-30%20at%206.14.46%20PM.png)
+
 ## Credits
+
