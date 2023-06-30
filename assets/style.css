@@ -1,0 +1,26 @@
+:root {
+    --blue: blue;
+    --purple: purple;
+    --green: green;
+
+}
+
+body {
+    display: block;
+    max-height: fit content;
+
+}
+
+.header {
+    display: flex;
+    background-color: blueviolet;
+    flex-wrap: wrap;
+}
+
+nav {
+    display: flex;
+    padding-top: 15%;
+    max-width: 115%;
+    background-image: linear-gradient(to bottom, var(--blue), var(--purple));
+
+}
