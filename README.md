@@ -27,4 +27,4 @@ For this weeks challenge, I used HTML and CSS to make a portfolio that I can put
 ![Screenshot of portfolio 3](./assets/images/Screen%20Shot%202023-06-30%20at%206.14.46%20PM.png)
 
 ## Credits
-
+"Coming Soon" image is from Adobe Stock images
