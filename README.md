@@ -19,6 +19,8 @@ For this weeks challenge, I used HTML and CSS to make a portfolio that I can put
 
 ## Website Link
 
+https://noahsalmon98.github.io/CSS-Portfolio/
+https://github.com/noahsalmon98/CSS-Portfolio/
 
 ## Screenshots
 
